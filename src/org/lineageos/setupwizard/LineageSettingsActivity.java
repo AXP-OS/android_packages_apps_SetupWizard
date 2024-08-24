@@ -50,7 +50,7 @@ public class LineageSettingsActivity extends BaseSetupWizardActivity {
 
     public static final String TAG = LineageSettingsActivity.class.getSimpleName();
 
-    public static final String PRIVACY_POLICY_URI = "http://lineageos.org/legal";
+    public static final String PRIVACY_POLICY_URI = "https://divestos.org/index.php?page=privacy_policy";
 
     private SetupWizardApp mSetupWizardApp;
 
