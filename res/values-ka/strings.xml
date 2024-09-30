@@ -51,12 +51,12 @@
     <string name="yes">დიახ</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">საგანგებო ზარი</string>
-    <string name="setup_services">LineageOS-ს შესაძლებლობები</string>
-    <string name="services_explanation" product="tablet">ამ მომსახურებების მუშაობა აფართოებს თქვენი პლანშეტის შესაძლებლობებს. მონაცემებით სარგებლობის პირობებს განსაზღვრავს LineageOS-ის <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
-    <string name="services_explanation" product="default">ამ მომსახურებების მუშაობა აფართოებს თქვენი ტელეფონის შესაძლებლობებს. მონაცემებით სარგებლობის პირობებს განსაზღვრავს LineageOS-ის <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
+    <string name="setup_services">AXP.OS-ს შესაძლებლობები</string>
+    <string name="services_explanation" product="tablet">ამ მომსახურებების მუშაობა აფართოებს თქვენი პლანშეტის შესაძლებლობებს. მონაცემებით სარგებლობის პირობებს განსაზღვრავს AXP.OS-ის <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
+    <string name="services_explanation" product="default">ამ მომსახურებების მუშაობა აფართოებს თქვენი ტელეფონის შესაძლებლობებს. მონაცემებით სარგებლობის პირობებს განსაზღვრავს AXP.OS-ის <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
     <string name="services_privacy_policy">პირადულობის დებულება</string>
-    <string name="services_help_improve_cm">დაგვეხმარეთ, გავაუმჯობესოთ <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> იმ საკვლევი და გამოყენების მონაცემთა ავტომატური გაგზავნით, რომელთაც გაეცნობა LineageOS. ეს მონაცემები არ გამოდგება თქვენი ვინაობის დასადგენად, სამაგიეროდ ხელს გაუმართავს შემმუშავებლებს, რომ დახვეწონ ბატარეის მოხმარება, გაზარდონ აპების წარმადობა და გააუმჯობესონ <xliff:g id="name" example="LineageOS">%2$s</xliff:g> ახალი შესაძლებლობებით.</string>
+    <string name="services_help_improve_cm">დაგვეხმარეთ, გავაუმჯობესოთ <xliff:g id="name" example="AXP.OS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve AXP.OS">%1$s</xliff:g> იმ საკვლევი და გამოყენების მონაცემთა ავტომატური გაგზავნით, რომელთაც გაეცნობა AXP.OS. ეს მონაცემები არ გამოდგება თქვენი ვინაობის დასადგენად, სამაგიეროდ ხელს გაუმართავს შემმუშავებლებს, რომ დახვეწონ ბატარეის მოხმარება, გაზარდონ აპების წარმადობა და გააუმჯობესონ <xliff:g id="name" example="AXP.OS">%2$s</xliff:g> ახალი შესაძლებლობებით.</string>
     <string name="services_os_nav_keys_label"><b>ეკრანული ღილაკების გამოყენება სამოძრაოდ</b> ფიზიკურის ნაცვლად.</string>
     <string name="setup_unlock">გახსნა</string>
     <string name="setup_device_locked">მოწყობილობა ჩაკეტა მომხმარებლმა.</string>
@@ -80,7 +80,7 @@
     <string name="lockscreen_setup_summary"><b>დაიცავით მოწყობილობა</b> და ჩართეთ PIN-კოდის, მონახაზის ან პაროლის შეყვანის მოთხოვნა, ჩაკეტილი ეკრანის გასახსნელად</string>
     <string name="lockscreen_setup_screen_lock_setup">გამართვა</string>
     <string name="intro_restore_title">აპებისა და მონაცემების აღდგენა</string>
-    <string name="intro_restore_subtitle" product="tablet">თუ თქვენი წინა LineageOS-პლანშეტის სამარქაფო ასლი გაქვთ, აქედან შეძლებთ აღდგენას.</string>
-    <string name="intro_restore_subtitle" product="default">თუ თქვენი წინა LineageOS-ტელეფონის სამარქაფო ასლი გაქვთ, აქედან შეძლებთ აღდგენას.</string>
+    <string name="intro_restore_subtitle" product="tablet">თუ თქვენი წინა AXP.OS-პლანშეტის სამარქაფო ასლი გაქვთ, აქედან შეძლებთ აღდგენას.</string>
+    <string name="intro_restore_subtitle" product="default">თუ თქვენი წინა AXP.OS-ტელეფონის სამარქაფო ასლი გაქვთ, აქედან შეძლებთ აღდგენას.</string>
     <string name="intro_restore_button">აღდგენა მარქაფიდან</string>
 </resources>
