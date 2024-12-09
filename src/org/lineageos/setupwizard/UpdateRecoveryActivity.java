@@ -65,7 +65,7 @@ public class UpdateRecoveryActivity extends BaseSetupWizardActivity {
         // Allow overriding the default checkbox state
         if (sFirstTime) {
             mSetupWizardApp.getSettingsBundle().putBoolean(ENABLE_RECOVERY_UPDATE,
-                    SystemProperties.getBoolean(UPDATE_RECOVERY_PROP, false));
+                    SystemProperties.getBoolean(UPDATE_RECOVERY_PROP, true));
         }
 
         sFirstTime = false;
