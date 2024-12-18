@@ -50,11 +50,11 @@
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Glao éigeandála</string>
     <string name="accessibility_settings">Socruithe inrochtaineachta</string>
-    <string name="setup_services">LineageOS gnéithe</string>
-    <string name="services_pp_explanation">Oibríonn na seirbhísí seo duit chun cumais do ghléis a leathnú. Úsáidfear sonraí de réir pholasaí príobháideachais <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
-    <string name="services_find_privacy_policy">Is féidir leat an polasaí príobháideachais a léamh ar ghléas eile trí chuairt a thabhairt ar <xliff:g id="uri" example="https://lineageos.org/legal">%1$s</xliff:g></string>
-    <string name="services_help_improve_cm">Cabhraigh le feabhas a chur ar <xliff:g id="name" example="LineageOS"> %s</xliff:g></string>
-    <string name="services_metrics_label"><xliff:g id="name" example="Cabhraigh le LineageOS a fheabhsú">%1$s</xliff:g> trí shonraí diagnóiseacha agus úsáide a sheoladh go huathoibríoch chuig <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Ní féidir an fhaisnéis seo a úsáid chun tú a aithint agus tugann sé cúnamh d\'fhoirne atá ag obair ar rudaí cosúil le saol ceallraí, feidhmíocht aipe agus <xliff:g id="name" example="LineageOS">%3$s</xliff:g> gnéithe.</string>
+    <string name="setup_services">AXP.OS gnéithe</string>
+    <string name="services_pp_explanation">Oibríonn na seirbhísí seo duit chun cumais do ghléis a leathnú. Úsáidfear sonraí de réir pholasaí príobháideachais <xliff:g id="name" example="AXP.OS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Is féidir leat an polasaí príobháideachais a léamh ar ghléas eile trí chuairt a thabhairt ar <xliff:g id="uri" example="https://divestos.org/index.php?page=privacy_policy">%1$s</xliff:g></string>
+    <string name="services_help_improve_cm">Cabhraigh le feabhas a chur ar <xliff:g id="name" example="AXP.OS"> %s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Cabhraigh le AXP.OS a fheabhsú">%1$s</xliff:g> trí shonraí diagnóiseacha agus úsáide a sheoladh go huathoibríoch chuig <xliff:g id="name" example="AXP.OS">%2$s</xliff:g>. Ní féidir an fhaisnéis seo a úsáid chun tú a aithint agus tugann sé cúnamh d\'fhoirne atá ag obair ar rudaí cosúil le saol ceallraí, feidhmíocht aipe agus <xliff:g id="name" example="AXP.OS">%3$s</xliff:g> gnéithe.</string>
     <string name="services_os_nav_keys_label"><b>Úsáid eochracha nascleanúna scáileáin</b> in ionad eochracha crua-earraí.</string>
     <string name="services_full_description"><xliff:g id="pp_explanation">%1$s</xliff:g>\n<xliff:g id="pp_find">%2$s</xliff:g></string>
     <string name="settings_biometric_setup_title">Roghnaigh cineál glas scáileán cúltaca</string>
@@ -76,12 +76,12 @@
     <string name="lockscreen_setup_summary"><b>Cosain an gléas seo</b> agus teastaíonn PIN, patrún nó pasfhocal chun an scáileán a dhíghlasáil</string>
     <string name="lockscreen_setup_screen_lock_setup">Socraigh</string>
     <string name="intro_restore_title">Athchóirigh aipeanna agus sonraí</string>
-    <string name="intro_restore_subtitle">Má tá cúltaca agat ó do ghléas deireanach <xliff:g id="name" example="LineageOS">%s</xliff:g>, is féidir leat é a chur ar ais anseo.</string>
+    <string name="intro_restore_subtitle">Má tá cúltaca agat ó do ghléas deireanach <xliff:g id="name" example="AXP.OS">%s</xliff:g>, is féidir leat é a chur ar ais anseo.</string>
     <string name="intro_restore_button">Athchóirigh ó chúltaca</string>
-    <string name="update_recovery_title">Nuashonraigh Aisghabháil Lineage</string>
-    <string name="update_recovery_description">Nuashonruithe Aisghabháil Lineage ar an gcéad tosaithe tar éis gach nuashonraithe.</string>
+    <string name="update_recovery_title">Nuashonraigh Aisghabháil AXP.OS</string>
+    <string name="update_recovery_description">Nuashonruithe Aisghabháil AXP.OS ar an gcéad tosaithe tar éis gach nuashonraithe.</string>
     <string name="update_recovery_warning">Déanfar aisghabháil a nuashonrú chomh luath agus a chríochnaíonn tú an socrú. Más mian leat é a choinneáil slán, díchumasaigh an ghné seo.</string>
-    <string name="update_recovery_setting">Nuashonraigh Aisghabháil Lineage taobh leis an OS</string>
+    <string name="update_recovery_setting">Nuashonraigh Aisghabháil AXP.OS taobh leis an OS</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>
     <string name="setup_navigation">Nascleanúint</string>
     <string name="navigation_summary">Roghnaigh modh nascleanúna is fearr leat</string>
