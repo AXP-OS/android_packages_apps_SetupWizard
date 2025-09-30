@@ -40,11 +40,11 @@
     <string name="yes">Ih</string>
     <string name="data_sim_name">SIM <xliff:g id="sub">%1$d</xliff:g> - <xliff:g id="name">%2$s</xliff:g></string>
     <string name="emergency_call">Isawalen uɛjilen</string>
-    <string name="setup_services">Timahilin n LineageOS</string>
-    <string name="services_explanation" product="tablet">Tawuri n ymeẓliyen-a d asiɣzef n tzemmar n tfelwit-ik.im n uselkim. Isefka ad ttwasqedcen ilmend n usaḍuf n LineageOS <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
-    <string name="services_explanation" product="default">Tawuri n ymeẓliyen-a d asiɣzef n tzemmar n tiliɣri-k.m. Isefka ad ttwasqedcen ilmend n usaḍuf n LineageOS <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
+    <string name="setup_services">Timahilin n AXP.OS</string>
+    <string name="services_explanation" product="tablet">Tawuri n ymeẓliyen-a d asiɣzef n tzemmar n tfelwit-ik.im n uselkim. Isefka ad ttwasqedcen ilmend n usaḍuf n AXP.OS <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
+    <string name="services_explanation" product="default">Tawuri n ymeẓliyen-a d asiɣzef n tzemmar n tiliɣri-k.m. Isefka ad ttwasqedcen ilmend n usaḍuf n AXP.OS <xliff:g id="name" example="Privacy Policy">%s</xliff:g>.</string>
     <string name="services_privacy_policy">Tasertit tabaḍnit</string>
-    <string name="services_help_improve_cm">Muddet afus ad innerni <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_help_improve_cm">Muddet afus ad innerni <xliff:g id="name" example="AXP.OS">%s</xliff:g></string>
     <string name="setup_unlock">Serreḥ</string>
     <string name="setup_require_cyanogen_label"><b>Yessutur awal uffir n umiḍan-ik.im</b> iwakken ad iseqdec ibenk-ik.im ulamma deffir u wallus n uwennez n tkebbanit.</string>
     <string name="settings_biometric_setup_details">Amek tebγiḍ ad tzekkwreḍ agdil-ik?</string>
